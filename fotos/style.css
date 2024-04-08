@@ -1,0 +1,14 @@
+body {
+    background-image: url('/fotos/fundo-texturizado-de-parede-pintada-de-preto_53876-110728.avif');
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+}
+img{
+    width: 30px;
+    right: 10px;
+}
+.img1{
+    width: 100px;
+    right: 100px;
+}
